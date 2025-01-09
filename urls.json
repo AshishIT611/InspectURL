@@ -19,5 +19,11 @@
     "status": "valid",
     "blocked": false,
     "accessedAt": "2025-01-09T09:01:33.401Z"
+  },
+  {
+    "url": "https://www.gnums.com/",
+    "status": "blocked",
+    "blocked": true,
+    "accessedAt": "2025-01-09T09:13:30.884Z"
   }
 ]
