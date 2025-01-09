@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.gnums.com/?=abc&ab",
+    "searchParams": {
+      "": "abc",
+      "ab": ""
+    },
+    "accessedAt": "2025-01-09T08:56:36.129Z"
+  }
+]

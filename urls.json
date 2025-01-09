@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://www.google.com/",
+    "status": "unblocked",
+    "visitedAt": "2025-01-09T07:41:34.577Z"
+  },
+  {
+    "url": "https://www.gnums.com/",
+    "status": "unblocked",
+    "visitedAt": "2025-01-09T07:59:35.753Z"
+  },
+  {
+    "url": "https://www.gnums.com/",
+    "status": "unblocked",
+    "visitedAt": "2025-01-09T08:25:01.792Z"
+  },
+  {
+    "url": "https://www.gnums.com/",
+    "status": "valid",
+    "blocked": false,
+    "accessedAt": "2025-01-09T09:01:33.401Z"
+  }
+]
